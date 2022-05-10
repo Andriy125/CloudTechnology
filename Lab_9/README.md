@@ -1,8 +1,10 @@
 # Реєстрація на AWS
 
 Дашбоард
-![lab_9.png](lab_9.png)
+
+![Lab_9.png](Lab_9.png)
 
 Списко створених істансів
-![lab_9_2.png](lab_9_2.png)
+
+![Lab_9_2.png](Lab_9_2.png)
 
