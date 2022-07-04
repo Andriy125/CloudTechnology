@@ -1,7 +1,7 @@
 # jenkins
-![lab_2.png](lab_2.png)
+![2.png](2.png)
 
-![lab_3.png](lab_3.png)
+![3.png](3.png)
 
-![lab_4.png](lab_4.png)
+![4.png](4.png)
 
