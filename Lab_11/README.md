@@ -1,8 +1,7 @@
-# Реєстрація на AWS
+# jenkins
+![lab_2.png](lab_2.png)
 
-Дашбоард
-![lab_9.png](lab_9.png)
+![lab_3.png](lab_3.png)
 
-Списко створених істансів
-![lab_9_2.png](lab_9_2.png)
+![lab_4.png](lab_4.png)
 
